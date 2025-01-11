@@ -110,3 +110,10 @@ This will create a `build` output directory containing the HTML output. Alternat
 ## Vulnerability Remediation
 
 Visit the [Smart Contract Vulnerability Classification Registry](https://swcregistry.io/) to find detailed information and remediation guidance for the vulnerabilities reported.
+
+
+## ethash error:
+
+```
+pip install https://codeload.github.com/Nov1kov/ethash/zip/refs/heads/master
+```
